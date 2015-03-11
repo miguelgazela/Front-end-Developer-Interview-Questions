@@ -63,6 +63,9 @@ This file contains a number of front-end interview questions that can be used wh
   To most major browsers there isn't any problem, but apparently IE 6 & 7 break horribly. 
 
 * How do you serve a page with content in multiple languages?
+
+  i18n! 
+
 * What kind of things must you be wary of when design or developing for multilingual sites?
 * What are `data-` attributes good for?
 * Consider HTML5 as an open web platform. What are the building blocks of HTML5?
