@@ -47,6 +47,9 @@ This file contains a number of front-end interview questions that can be used wh
 #### HTML Questions:
 
 * What does a `doctype` do?
+
+  A `doctype` is an instruction to the browser that tells it which version of HTML is being used.
+
 * What's the difference between standards mode and quirks mode?
 * What's the difference between HTML and XHTML?
 * Are there any problems with serving pages as `application/xhtml+xml`?
