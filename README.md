@@ -49,8 +49,10 @@ This file contains a number of front-end interview questions that can be used wh
 * What does a `doctype` do?
 
   A `doctype` is an instruction to the browser that tells it which version of HTML is being used.
-
+  
 * What's the difference between standards mode and quirks mode?
+  Back in the first days of the web, for each page developed there was necessary 2 versions, one for netscape navigator and one for internet explorer. When standards were defined at W3C, we couldn't start using them straight away because thousands of web pages would break. To solve that issue, browsers introduced 2 modes to differentiate between sites that complied with the new standards and those who didn't: quirks mode and stantards mode. In quirks mode the layout emulates nonstandard behavior in navigator 4 and Internet Explorer 5, while in standards mode the behavior is the one described by the HTML and CSS specifications. 
+
 * What's the difference between HTML and XHTML?
 * Are there any problems with serving pages as `application/xhtml+xml`?
 * How do you serve a page with content in multiple languages?
